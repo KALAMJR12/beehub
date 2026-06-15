@@ -1,20 +1,20 @@
 /* ========================================
-   AHMAD TIJJANI FOUNDATION - JAVASCRIPT
+   BELLO EL-RUFAI EMPOWERMENT HUB (BEE-HUB) - JAVASCRIPT
    ========================================
-   
-   This file contains all interactive functionality:
-   - Mobile navigation toggle
-   - Hero section slideshow
-   - Gallery image grid and modal
-   - Smooth scrolling
-   - Form handling
-   - Program application modal
-   
-   TO UPDATE IMAGES:
-   - Modify the heroImages array for hero slideshow
-   - Modify the galleryImages array for gallery section
-   
-   ======================================== */
+    
+    This file contains all interactive functionality:
+    - Mobile navigation toggle
+    - Hero section slideshow
+    - Gallery image grid and modal
+    - Smooth scrolling
+    - Form handling
+    - Program application modal
+    
+    TO UPDATE IMAGES:
+    - Modify the heroImages array for hero slideshow
+    - Modify the galleryImages array for gallery section
+    
+    ======================================== */
 
 // ========================================
 // CONFIGURATION SECTION
@@ -414,7 +414,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initSlideshow();
     initGallery();
     
-    console.log('Ahmad Tijjani Foundation website loaded successfully!');
+    console.log('BEE-Hub website loaded successfully!');
 });
 
 // ========================================
