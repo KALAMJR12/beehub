@@ -24,19 +24,19 @@
 // TO UPDATE: Replace these URLs with your own images
 const heroImages = [
     {
-        url: 'https://i.ibb.co/wNnNV1LB/1761119851739.jpg',
+        url: 'https://i.ibb.co/GQ6xpm8B/516365102-10171552047620431-2158010440922718777-n.jpg',
         caption: 'Empowering Youth Through Education'
     },
     {
-        url: 'https://i.ibb.co/k2hMVLnB/1761119866971.jpg',
+        url: 'https://i.ibb.co/wZ4M7h7d/690649494-10174070406765431-4888549039230589443-n.jpg',
         caption: 'Building Skills for the Future'
     },
     {
-        url: 'https://i.ibb.co/8DL3j9C5/1761119874237.jpg',
+        url: 'https://i.ibb.co/KzQp5gm5/517564471-10171613720670431-3328642285715102871-n.jpg',
         caption: 'Community Development Programs'
     },
     {
-        url: 'https://i.ibb.co/23wDC71K/IMG-20251022-WA0014.jpg',
+        url: 'https://i.ibb.co/kVRQ352L/571623612-10172491369490431-2417444740288809635-n.jpg',
         caption: 'Creating Opportunities for All'
     }
 ];
@@ -45,31 +45,31 @@ const heroImages = [
 // TO UPDATE: Replace these URLs with your event photos
 const galleryImages = [
     {
-        url: 'https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/35yRYX5K/518314140-10171656287155431-4041752169067357668-n.jpg',
         caption: 'Educational Workshop'
     },
     {
-        url: 'https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/CKbQKL0J/518280639-10171656286870431-4821002355287045998-n.jpg',
         caption: 'Tech Skills Training Session'
     },
     {
-        url: 'https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/Ndcy64rn/518152528-10171673718665431-6241228067718086425-n.jpg',
         caption: 'Leadership Development Program'
     },
     {
-        url: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/PpJK6w4/471506073-10170151991370431-7274200804191842274-n.jpg',
         caption: 'Community Service Day'
     },
     {
-        url: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/1tPM7ths/517265827-10171647145410431-4617074134235783522-n.jpg',
         caption: 'Team Collaboration Workshop'
     },
     {
-        url: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/hxqbwQgc/516322971-10171622686740431-4319072452809482573-n.jpg',
         caption: 'Graduation Ceremony'
     },
     {
-        url: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/VpgkQKtR/518366034-10171661494920431-3382167536370960945-n.jpg',
         caption: 'Vocational Training'
     },
     {
@@ -77,7 +77,7 @@ const galleryImages = [
         caption: 'Youth Conference'
     },
     {
-        url: 'https://images.unsplash.com/photo-1529390079861-591de354faf5?w=600&h=400&fit=crop',
+        url: 'https://i.ibb.co/gLpH0BTK/536272598-10171950559605431-4264085384836837530-n.jpg',
         caption: 'Scholarship Recipients'
     }
 ];
